@@ -20,7 +20,7 @@
 - 📝 I regularly write articles on
 - [https://medium.com/@joyantichowdhury7070](https://medium.com/@joyantichowdhury7070)
 
-- 💬 Ask me about **React.js,Next.js,Express.js,Node.js,MongoDb and Prisma**
+- 💬 Ask me about **React.js,Next.js,Express.js,Node.js,MongoDb *
 
 - 📫 How to reach me **joyantichowdhury7070@gmail.com**
 
