@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Prisma and mysql**
 
 - 👨‍💻 All of my projects are available at
-- [https://joyanti-chowdhury-web.netlify.app//][(https://joyanti-chowdhury.netlify.app])/)
+- ([https://joyanti-chowdhury-web.netlify.app/])
 
 - 📝 I regularly write articles on
 - [https://medium.com/@joyantichowdhury7070](https://medium.com/@joyantichowdhury7070)
